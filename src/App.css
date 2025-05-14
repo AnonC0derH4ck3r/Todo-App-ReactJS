@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  margin-right: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+  margin-left: 4px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  background: #f0f0f0;
+  padding: 8px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
